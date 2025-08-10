@@ -1,0 +1,10 @@
+# Node / Next.js
+node_modules
+.next
+out
+dist
+.env*
+*.log
+.cache
+.vercel
+.DS_Store
